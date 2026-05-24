@@ -2,13 +2,13 @@
 🔭 I’m currently working on  
 Launched SaaS products, mobile apps, and open-source AI tools.
 
-Right now I’m building products like Mira AI, NUTRI, Meetly, and developer tools for AI builders.
+Right now I’m building products like Mira AI
+, Meetly, and developer tools for AI builders.
 
 <br>
 
 🚀 Launched / Building  
 • Mira AI Companion, an iOS AI companion with memory, check-ins, voice, and emotional insights  
-• NUTRI, a simple AI nutrition app with a mascot-driven mobile experience  
 • Meetly, an AI revenue intelligence platform for sales teams  
 • Open-source AI/dev tools like AppLaunchGuard and LLM Spy  
 • Automation systems, AI workflows, and SaaS products built around real-world use cases  
@@ -52,12 +52,6 @@ I started building startups while still in school and shipped my first real iOS 
 ### Mira AI Companion  
 An iOS AI companion built for emotional reflection, memory, daily check-ins, voice, and mood insights.  
 Built with Swift, Supabase, RevenueCat, PostHog, OpenRouter, and AI memory systems.
-
-### NUTRI  
-A simple AI nutrition mobile app built around fast food logging, a mascot-led experience, and a clean mobile loop.
-
-### Meetly  
-AI revenue intelligence platform for sales teams to improve win rates, sales cycles, and forecasting.
 
 ### AppLaunchGuard  
 Open-source tool for app builders to catch launch-blocking issues before shipping.
