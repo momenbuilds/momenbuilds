@@ -9,7 +9,6 @@ Right now I’m building products like Mira AI
 
 🚀 Launched / Building  
 • Mira AI Companion, an iOS AI companion with memory, check-ins, voice, and emotional insights  
-• Meetly, an AI revenue intelligence platform for sales teams  
 • Open-source AI/dev tools like AppLaunchGuard and LLM Spy  
 • Automation systems, AI workflows, and SaaS products built around real-world use cases  
 
