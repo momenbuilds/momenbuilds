@@ -2,24 +2,14 @@
 
 # Momen Adel
 
-### Building AI, security, and developer tools that solve real problems
+### Founder and developer building AI, security, and developer tools
 
-I build products across AI infrastructure, application security, iOS, and macOS.
+I build local-first software, AI infrastructure, security tooling, and native Apple applications.
 
-<p>
-  <a href="https://mxcenterprises.com">
-    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Website">
-  </a>
-  <a href="https://x.com/momenbuilds">
-    <img src="https://img.shields.io/badge/@momenbuilds-111111?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://instagram.com/z9_qvx">
-    <img src="https://img.shields.io/badge/@z9__qvx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:momenadelbusiness@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+[Website](https://mxcenterprises.com) ·
+[X](https://x.com/momenbuilds) ·
+[Instagram](https://instagram.com/z9_qvx) ·
+[Email](mailto:momenadelbusiness@gmail.com)
 
 </div>
 
@@ -27,13 +17,13 @@ I build products across AI infrastructure, application security, iOS, and macOS.
 
 ## About me
 
-I’m a founder and developer from Egypt focused on building useful software and shipping it fast.
+I’m a founder and developer from Egypt focused on turning ambitious ideas into real products.
 
-My work sits between AI infrastructure, developer tools, application security, and native Apple apps. I care about privacy, strong product design, and creating tools people can actually use instead of leaving them as prototypes.
+My work sits between AI infrastructure, application security, developer tools, and native Apple apps. I care about privacy, strong product design, and building software people can actually use.
 
-I currently build products through [MXC Enterprises](https://mxcenterprises.com) and contribute to open-source projects across TypeScript, Python, and Swift.
+I currently build products through [MXC Enterprises](https://mxcenterprises.com) and maintain open-source projects across TypeScript, Python, and Swift.
 
-## Open source
+## Selected open-source projects
 
 <table>
 <tr>
@@ -43,9 +33,11 @@ I currently build products through [MXC Enterprises](https://mxcenterprises.com)
 
 A zero-config, local-first inspector for LLM API calls.
 
-See prompts, responses, tokens, estimated costs, latency, and safety signals without changing your application code.
+Inspect prompts, responses, token usage, estimated costs, latency, and safety signals without changing your application code.
 
-`Python` `SQLite` `mitmproxy`
+**Built with:** Python, SQLite, mitmproxy
+
+[View repository →](https://github.com/momenbuilds/llm-spy)
 
 </td>
 <td width="50%" valign="top">
@@ -54,9 +46,11 @@ See prompts, responses, tokens, estimated costs, latency, and safety signals wit
 
 A privacy-first AI agent for authorized security testing.
 
-Supports enforced scope, human approval, local and cloud models, evidence-backed findings, and automated reports.
+Includes enforced scope, human approval, local and cloud model support, evidence-backed findings, and automated security reports.
 
-`TypeScript` `Node.js` `LLMs`
+**Built with:** TypeScript, Node.js, LLMs
+
+[View repository →](https://github.com/momenbuilds/Hunt-agent)
 
 </td>
 </tr>
@@ -68,9 +62,11 @@ Supports enforced scope, human approval, local and cloud models, evidence-backed
 
 A CLI and GitHub Action that catches App Store submission risks before review.
 
-Scans privacy manifests, permissions, subscriptions, tracking configuration, screenshots, metadata, and exposed secrets.
+Scans privacy manifests, permissions, subscriptions, tracking configuration, metadata, screenshots, and exposed secrets.
 
-`TypeScript` `GitHub Actions` `iOS`
+**Built with:** TypeScript, GitHub Actions, iOS tooling
+
+[View repository →](https://github.com/momenbuilds/app-launch-guard)
 
 </td>
 <td width="50%" valign="top">
@@ -81,7 +77,9 @@ A private macOS menu bar app for tracking revenue, expenses, and financial goals
 
 No accounts, subscriptions, analytics, or cloud sync. Everything stays on the user’s Mac.
 
-`Swift` `macOS` `Local-first`
+**Built with:** Swift, macOS, local storage
+
+[View repository →](https://github.com/momenbuilds/hustler-menubar)
 
 </td>
 </tr>
@@ -95,7 +93,9 @@ An MCP server that routes coding tasks between local and cloud AI models based o
 
 Includes persistent project memory and support for Claude, Qwen, and Ollama.
 
-`TypeScript` `MCP` `Ollama`
+**Built with:** TypeScript, MCP, Ollama
+
+[View repository →](https://github.com/momenbuilds/ClaudeOrchestrator)
 
 </td>
 <td width="50%" valign="top">
@@ -112,68 +112,69 @@ Follow my GitHub to see what I ship next.
 </tr>
 </table>
 
-## What I care about
+## What I build
 
-- AI tools developers can understand and control
-- Local-first software with minimal data collection
-- Security tooling that produces real evidence
-- Native products that feel simple and polished
-- Building useful software and getting it into people’s hands
+- AI infrastructure and developer tools
+- AI-assisted application security
+- Local-first desktop software
+- Native iOS and macOS products
+- Full-stack SaaS applications
+- Automation systems and internal tools
 
 ## Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,python,swift,react,nextjs,nodejs,supabase,cloudflare,postgres,git,github,docker&perline=12" alt="Technologies">
-</p>
+| Area | Technologies |
+|---|---|
+| Languages | TypeScript, Python, Swift, JavaScript, SQL |
+| Frontend | React, Next.js, SwiftUI, Tailwind CSS |
+| Backend | Node.js, Supabase, PostgreSQL, SQLite |
+| Infrastructure | Cloudflare, Vercel, Docker, GitHub Actions |
+| AI | MCP, OpenAI, Anthropic, OpenRouter, Ollama |
+| Tools | Git, Xcode, Claude Code, Codex |
 
-I regularly work with:
+## How I work
 
-`TypeScript` · `Python` · `Swift` · `React` · `Next.js` · `Node.js` · `Supabase` · `PostgreSQL` · `Cloudflare` · `SQLite` · `MCP` · `LLM APIs`
+I like building products that are useful from the first version.
 
-## Currently building
+My approach is simple:
+
+1. Understand the real problem
+2. Build the smallest version that solves it
+3. Put it in front of actual users
+4. Learn from how they use it
+5. Improve it quickly
+
+I care more about working software, real users, and measurable outcomes than complicated plans or unfinished prototypes.
+
+## Current focus
 
 I’m currently focused on:
 
-- Local AI infrastructure and developer tooling
-- AI-assisted application security
-- Native iOS and macOS products
-- Open-source tools for developers and technical founders
-
-## GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=momenbuilds&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Momen's GitHub statistics">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momenbuilds&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Momen's most used languages">
-
-</div>
+- Making AI applications easier to inspect and debug
+- Building safer workflows for AI-assisted security testing
+- Creating open-source tools for developers
+- Shipping polished native Apple applications
+- Building products through MXC Enterprises
 
 ## Connect with me
 
 I’m open to collaborations, technical partnerships, open-source contributions, and ambitious product work.
 
-<p>
-  <a href="https://mxcenterprises.com">
-    <img src="https://img.shields.io/badge/mxcenterprises.com-111111?style=flat-square&logo=safari&logoColor=white" alt="Website">
-  </a>
-  <a href="https://x.com/momenbuilds">
-    <img src="https://img.shields.io/badge/@momenbuilds-111111?style=flat-square&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://instagram.com/z9_qvx">
-    <img src="https://img.shields.io/badge/@z9__qvx-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:momenadelbusiness@gmail.com">
-    <img src="https://img.shields.io/badge/momenadelbusiness@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+| Platform | Link |
+|---|---|
+| Website | [mxcenterprises.com](https://mxcenterprises.com) |
+| X | [@momenbuilds](https://x.com/momenbuilds) |
+| Instagram | [@z9_qvx](https://instagram.com/z9_qvx) |
+| GitHub | [@momenbuilds](https://github.com/momenbuilds) |
+| Email | [momenadelbusiness@gmail.com](mailto:momenadelbusiness@gmail.com) |
 
 ---
 
 <div align="center">
 
-### I build, ship, learn, and repeat.
+### Build. Ship. Learn. Repeat.
 
-[View my projects](https://github.com/momenbuilds?tab=repositories) · [Visit MXC Enterprises](https://mxcenterprises.com)
+[Explore my projects](https://github.com/momenbuilds?tab=repositories) ·
+[Visit MXC Enterprises](https://mxcenterprises.com)
 
 </div>
