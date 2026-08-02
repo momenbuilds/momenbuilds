@@ -1,95 +1,179 @@
-# 💫 About Me:
-🔭 I’m currently working on  
-Launched SaaS products, mobile apps, and open-source AI tools.
+<div align="center">
 
-Right now I’m building products like Mira AI
-, Meetly, and developer tools for AI builders.
+# Momen Adel
 
-<br>
+### Building AI, security, and developer tools that solve real problems
 
-🚀 Launched / Building  
-• Mira AI Companion, an iOS AI companion with memory, check-ins, voice, and emotional insights  
-• Open-source AI/dev tools like AppLaunchGuard and LLM Spy  
-• Automation systems, AI workflows, and SaaS products built around real-world use cases  
+I build products across AI infrastructure, application security, iOS, and macOS.
 
-<br>
+<p>
+  <a href="https://mxcenterprises.com">
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Website">
+  </a>
+  <a href="https://x.com/momenbuilds">
+    <img src="https://img.shields.io/badge/@momenbuilds-111111?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://instagram.com/z9_qvx">
+    <img src="https://img.shields.io/badge/@z9__qvx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:momenadelbusiness@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-👯 I’m looking to collaborate on  
-AI SaaS, mobile apps, open-source developer tools, automation systems, and products that use LLMs in actually useful ways.
-
-<br>
-
-🤝 I’m looking for help with  
-Distribution, scaling SaaS products, App Store growth, open-source growth, AI workflows, and turning useful tools into real businesses.
-
-<br>
-
-🌱 I’m currently learning  
-Swift, iOS development, AI agents, LLM infrastructure, Supabase, scalable SaaS architecture, open-source growth, and product-led distribution.
-
-<br>
-
-💬 Ask me about  
-Building AI apps, SaaS products, mobile apps, open-source tools, automation, cold outreach, launching products, and building as a young founder.
-
-<br>
-
-⚡ Fun fact  
-I started building startups while still in school and shipped my first real iOS app at 15.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mo2aadel) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/momenbuilds) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/momenbuilds) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/momenbuilds)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:momenadelbusiness@gmail.com)
-
-
-# 🚀 Featured Projects:
-
-### Mira AI Companion  
-An iOS AI companion built for emotional reflection, memory, daily check-ins, voice, and mood insights.  
-Built with Swift, Supabase, RevenueCat, PostHog, OpenRouter, and AI memory systems.
-
-### AppLaunchGuard  
-Open-source tool for app builders to catch launch-blocking issues before shipping.
-
-### LLM Spy  
-Open-source tool for inspecting and understanding LLM/agent behavior, useful for vibe coders and builders using tools like Claude Code, Codex, OpenClaw, and other coding agents.
-
-
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![RevenueCat](https://img.shields.io/badge/RevenueCat-000000?style=for-the-badge&logo=RevenueCat&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=momenbuilds&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=momenbuilds&theme=shadow_blue&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=momenbuilds&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=momenbuilds&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 Support My Work
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mxcenterprise)
+## About me
+
+I’m a founder and developer from Egypt focused on building useful software and shipping it fast.
+
+My work sits between AI infrastructure, developer tools, application security, and native Apple apps. I care about privacy, strong product design, and creating tools people can actually use instead of leaving them as prototypes.
+
+I currently build products through [MXC Enterprises](https://mxcenterprises.com) and contribute to open-source projects across TypeScript, Python, and Swift.
+
+## Open source
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [llm-spy](https://github.com/momenbuilds/llm-spy)
+
+A zero-config, local-first inspector for LLM API calls.
+
+See prompts, responses, tokens, estimated costs, latency, and safety signals without changing your application code.
+
+`Python` `SQLite` `mitmproxy`
+
+</td>
+<td width="50%" valign="top">
+
+### [Hunt-agent](https://github.com/momenbuilds/Hunt-agent)
+
+A privacy-first AI agent for authorized security testing.
+
+Supports enforced scope, human approval, local and cloud models, evidence-backed findings, and automated reports.
+
+`TypeScript` `Node.js` `LLMs`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [AppLaunchGuard](https://github.com/momenbuilds/app-launch-guard)
+
+A CLI and GitHub Action that catches App Store submission risks before review.
+
+Scans privacy manifests, permissions, subscriptions, tracking configuration, screenshots, metadata, and exposed secrets.
+
+`TypeScript` `GitHub Actions` `iOS`
+
+</td>
+<td width="50%" valign="top">
+
+### [Hustler](https://github.com/momenbuilds/hustler-menubar)
+
+A private macOS menu bar app for tracking revenue, expenses, and financial goals.
+
+No accounts, subscriptions, analytics, or cloud sync. Everything stays on the user’s Mac.
+
+`Swift` `macOS` `Local-first`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [MCP Orchestrator](https://github.com/momenbuilds/ClaudeOrchestrator)
+
+An MCP server that routes coding tasks between local and cloud AI models based on complexity and cost.
+
+Includes persistent project memory and support for Claude, Qwen, and Ollama.
+
+`TypeScript` `MCP` `Ollama`
+
+</td>
+<td width="50%" valign="top">
+
+### More coming soon
+
+I’m continuing to open-source tools across AI infrastructure, security, and native application development.
+
+Follow my GitHub to see what I ship next.
+
+[View all repositories →](https://github.com/momenbuilds?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## What I care about
+
+- AI tools developers can understand and control
+- Local-first software with minimal data collection
+- Security tooling that produces real evidence
+- Native products that feel simple and polished
+- Building useful software and getting it into people’s hands
+
+## Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,python,swift,react,nextjs,nodejs,supabase,cloudflare,postgres,git,github,docker&perline=12" alt="Technologies">
+</p>
+
+I regularly work with:
+
+`TypeScript` · `Python` · `Swift` · `React` · `Next.js` · `Node.js` · `Supabase` · `PostgreSQL` · `Cloudflare` · `SQLite` · `MCP` · `LLM APIs`
+
+## Currently building
+
+I’m currently focused on:
+
+- Local AI infrastructure and developer tooling
+- AI-assisted application security
+- Native iOS and macOS products
+- Open-source tools for developers and technical founders
+
+## GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=momenbuilds&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Momen's GitHub statistics">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momenbuilds&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Momen's most used languages">
+
+</div>
+
+## Connect with me
+
+I’m open to collaborations, technical partnerships, open-source contributions, and ambitious product work.
+
+<p>
+  <a href="https://mxcenterprises.com">
+    <img src="https://img.shields.io/badge/mxcenterprises.com-111111?style=flat-square&logo=safari&logoColor=white" alt="Website">
+  </a>
+  <a href="https://x.com/momenbuilds">
+    <img src="https://img.shields.io/badge/@momenbuilds-111111?style=flat-square&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://instagram.com/z9_qvx">
+    <img src="https://img.shields.io/badge/@z9__qvx-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:momenadelbusiness@gmail.com">
+    <img src="https://img.shields.io/badge/momenadelbusiness@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### I build, ship, learn, and repeat.
+
+[View my projects](https://github.com/momenbuilds?tab=repositories) · [Visit MXC Enterprises](https://mxcenterprises.com)
+
+</div>
