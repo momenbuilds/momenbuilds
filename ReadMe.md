@@ -8,6 +8,9 @@
   founder & dev from Egypt · AI, security & Mac tools @ <a href="https://mxcenterprises.com">MXC</a>
 
 <b>momen@mxc</b>:<b>~</b>$ whoami
+  founding eng @<a href="https://candle.tv/">candletv</a>
+  security researcher + onchain investigator
+
   Momen Adel. I turn ambitious ideas into real products.
   local-first, privacy-first, shipped fast.
   working software > unfinished plans.
