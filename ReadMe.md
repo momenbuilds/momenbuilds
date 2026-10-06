@@ -11,6 +11,12 @@
   founding eng @<a href="https://candle.tv/">candletv</a>
   security researcher + onchain investigator
 
+  founding eng @<a href="https://candle.tv/">candletv</a>
+  security researcher + onchain investigator
+
+  founding eng @<a href="https://candle.tv/">candletv</a>  the agentic terminal for AI agents to trade memecoins
+  security researcher + onchain investigator
+
   Momen Adel. I turn ambitious ideas into real products.
   local-first, privacy-first, shipped fast.
   working software > unfinished plans.
