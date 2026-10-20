@@ -6,6 +6,7 @@
 ██║ ╚═╝ ██║╚██████╔╝██║ ╚═╝ ██║███████╗██║ ╚████║
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝
   founder & dev from Egypt · AI, security & Mac tools @ <a href="https://mxcenterprises.com">MXC</a>
+  personal website: <a href="https://momen.mxcenterprises.com">momen.mxcenterprises.com</a>
 
 <b>momen@mxc</b>:<b>~</b>$ whoami
   founding eng @<a href="https://candle.tv/">candletv</a>  the agentic terminal for AI agents to trade memecoins
